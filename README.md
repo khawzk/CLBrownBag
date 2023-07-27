@@ -8,7 +8,7 @@ This repository contains 2 Python projects:
 - The main analysis is performed in the Jupyter Notebook `sentiment-analysis-python.ipynb`.
 - If you don't have Jupyter Notebook installed, you can access the notebook using the following links:
     - [View on nbviewer (Scrapy WEB Scraper)](https://nbviewer.org/github/khawzk/CLBrownBag/blob/main/scrapy_from_jnb.ipynb)
-    - [View on nbviewer (VADER and Roberta)](https://nbviewer.org/github/khawzk/CLBrownBag/blob/main/sentiment-analysis-python-roberta.ipynb)
+    - [View on nbviewer (VADER and Roberta)](https://nbviewer.org/github/khawzk/CLBrownBag/blob/main/sentiment-analysis-python.ipynb)
 
 ## Usage:
 - The project involves sentiment analysis on a dataset of Amazon reviews using VADER and Roberta.
