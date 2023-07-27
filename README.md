@@ -1,6 +1,8 @@
 # CLBrownBag
 
-This repository contains a Python project for sentiment analysis using two techniques: VADER (Valence Aware Dictionary and Sentiment Reasoner) - Bag of Words Approach, and a pretrained Roberta model from Hugging Face.
+This repository contains 2 Python projects:
+1. A demo for web scraping, demonstrating how to crawl data from websites.
+2. Sentiment analysis using two techniques: VADER (Valence Aware Dictionary and Sentiment Reasoner) - Bag of Words Approach, and a pretrained Roberta model from Hugging Face.
 
 ## Project Overview:
 - The main analysis is performed in the Jupyter Notebook `sentiment-analysis-python.ipynb`.
