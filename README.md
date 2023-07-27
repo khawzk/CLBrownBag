@@ -5,7 +5,7 @@ This repository contains a Python project for sentiment analysis using two techn
 ## Project Overview:
 - The main analysis is performed in the Jupyter Notebook `sentiment-analysis-python.ipynb`.
 - If you don't have Jupyter Notebook installed, you can access the notebook using the following links:
-    - [View on nbviewer (VADER)](https://nbviewer.org/github/khawzk/CLBrownBag/blob/main/scrapy_from_jnb.ipynb)
+    - [View on nbviewer (Scrapy WEB Scraper)](https://nbviewer.org/github/khawzk/CLBrownBag/blob/main/scrapy_from_jnb.ipynb)
     - [View on nbviewer (VADER and Roberta)](https://nbviewer.org/github/khawzk/CLBrownBag/blob/main/sentiment-analysis-python-roberta.ipynb)
 
 ## Usage:
